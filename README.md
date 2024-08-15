@@ -113,14 +113,14 @@
 <div align="center">
 <h3 align="center" style="margin: 5px 10px;">📊 GITHUB STATS:</h3>
 
-[![](https://github-readme-stats.vercel.app/api?username=stebin-17&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/StebinGeorge)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=stebin-17&theme=material-palenight)](https://github.com/StebinGeorge)
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stebin-17&langs_count=8&theme=algolia&layout=compact) ](https://github.com/StebinGeorge)
+[![](https://github-readme-stats.vercel.app/api?username=StebinGeorge&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/StebinGeorge)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=StebinGeorge&theme=material-palenight)](https://github.com/StebinGeorge)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StebinGeorge&langs_count=8&theme=algolia&layout=compact) ](https://github.com/StebinGeorge)
 
 </div>
 
 <p align="center">
-  <img  src="https://github.com/stebin-17/StebinGeorge/blob/output/github-contribution-grid-snake.gif"
+  <img  src="https://github.com/StebinGeorge/StebinGeorge/blob/output/github-contribution-grid-snake.gif"
     alt="example" />
 </p>
 
