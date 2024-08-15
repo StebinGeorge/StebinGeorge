@@ -120,7 +120,7 @@
 </div>
 
 <p align="center">
-  <img  src="https://github.com/stebin-17/stebin-17/blob/output/github-contribution-grid-snake.gif"
+  <img  src="https://github.com/stebin-17/StebinGeorge/blob/output/github-contribution-grid-snake.gif"
     alt="example" />
 </p>
 
